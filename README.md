@@ -48,34 +48,9 @@ A API expõe os seguintes endpoints:
 | **Documento** | `PUT` | `/api/documentos/{id}` | Atualiza um documento existente. |
 | **Documento** | `DELETE` | `/api/documentos/{id}` | Deleta um documento. |
 
-## Publicação (Render)
-
-**Link da Aplicação Hospedada (Simulação):**
-
-> **`https://seu-projeto-render.onrender.com`**
->
-> *Nota: Este é um link simulado. Em um cenário real, você substituiria pelo link do seu deploy no Render.*
-
-## Documentação Swagger
-
-A documentação interativa da API está disponível no endpoint Swagger UI.
-
-**Link da Documentação Swagger (Simulação):**
-
-> **`https://seu-projeto-render.onrender.com/swagger-ui.html`**
->
-> *Nota: Este link funcionaria após o deploy da aplicação no Render.*
 
 ### Como Acessar e Usar a Documentação
 
 1.  **Acesso:** Após iniciar a aplicação (localmente ou no Render), acesse o link do Swagger UI.
 2.  **Visualização:** A página exibirá todos os *controllers* (`CategoriaController` e `DocumentoController`) e seus respectivos *endpoints* (GET, POST, PUT, DELETE).
 3.  **Teste:** Clique em qualquer endpoint para expandir. Você pode clicar em **"Try it out"** para enviar requisições diretamente do navegador e testar a API em tempo real.
-
-## Referências
-
-*   **Tutorial Oficial do Swagger:**
-    *   [https://swagger.io/docs/](https://swagger.io/docs/)
-*   **Vídeos de Apoio (Simulação de Referência):**
-    *   [http://youtube.com/watch?v=7x88AlD3Iv8](http://youtube.com/watch?v=7x88AlD3Iv8)
-    *   [https://www.youtube.com/watch?v=fwWvgk_SW2g](https://www.youtube.com/watch?v=fwWvgk_SW2g)
